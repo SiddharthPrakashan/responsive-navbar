@@ -1,1 +1,4 @@
-Responsive navbar with collapsible sidebar pure css and vanilla js
+Responsive navbar with collapsible sidebar. 
+Pure css and vanilla js.
+
+Demo: https://siddharthprakashan.github.io/responsive-navbar/
